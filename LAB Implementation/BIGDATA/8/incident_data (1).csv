@@ -1,0 +1,26 @@
+incident_id,incident_date,severity,category,description
+1,2023-01-01,High,Network,Network connectivity issue affecting multiple users.
+2,2023-01-02,Medium,Hardware,Printer malfunction in the marketing department.
+3,2023-01-03,Low,Software,Application crash reported by a single user.
+4,2023-01-04,High,Security,Unauthorized access detected in the server logs.
+5,2023-01-05,Medium,Hardware,Laptop screen broken for an executive user.
+6,2023-01-06,Low,Network,Slow internet connection reported in the conference room.
+7,2023-01-07,High,Software,Critical system error causing application downtime.
+8,2023-01-08,Medium,Hardware,Keyboard malfunction for a desktop computer.
+9,2023-01-09,Low,Security,Failed login attempts on a user account.
+10,2023-01-10,High,Software,Database corruption issue impacting production environment.
+11,2023-01-11,Medium,Network,Intermittent network disconnections in the finance department.
+12,2023-01-12,Low,Hardware,Monitor flickering issue for a user workstation.
+13,2023-01-13,High,Security,Data breach incident with potential data loss.
+14,2023-01-14,Medium,Software,Software update causing compatibility issues.
+15,2023-01-15,Low,Hardware,Mouse not working for a user in the sales team.
+16,2023-01-16,High,Network,Distributed Denial of Service (DDoS) attack on the company website.
+17,2023-01-17,Medium,Security,Security patch installation on server systems.
+18,2023-01-18,Low,Software,Email client not syncing properly on mobile devices.
+19,2023-01-19,High,Hardware,Server hardware failure leading to service outage.
+20,2023-01-20,Medium,Network,Packet loss observed during video conferencing sessions.
+21,2023-01-21,Low,Security,Phishing attempt reported by a user via email.
+22,2023-01-22,High,Software,Operating system crash affecting multiple users.
+23,2023-01-23,Medium,Hardware,Scanner malfunction in the HR department.
+24,2023-01-24,Low,Network,Slow file transfer speeds reported in the IT department.
+25,2023-01-25,High,Security,Ransomware attack detected on file servers.
